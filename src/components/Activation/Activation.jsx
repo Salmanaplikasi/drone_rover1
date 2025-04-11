@@ -73,7 +73,7 @@ const Activation = () => {
           <tr>
             <th>Id</th>
             <th>Rental Id</th>
-            <th>Statuss</th>
+            <th>Statuskjhgfdsdfghjklkjuytre</th>
             <th>Last Reported Issue</th>
             <th>last active</th>
             <th></th>
